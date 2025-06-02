@@ -4,9 +4,9 @@
 
 👀 I’m interested in ... web development, game development, and coding in general.
 
-:books: I’m currently ... practicing DSA challenges and dabbling with the Godot Game Engine. :video_game:
+:books: I’m currently ... building a game with my wife. :video_game:
 
-:handshake: I’m looking to collaborate on ... any front end web dev work or any indie Godot game. :woman_technologist:
+:handshake: I’m looking to collaborate on ... any front end web dev work or any indie game using Godot or Phaser. :woman_technologist:
 
 :computer: How to reach me ... 
 
